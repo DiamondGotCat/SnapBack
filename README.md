@@ -4,6 +4,7 @@
 Use Git to take a snapshot and restore. (for macOS)
 
 ## Features
+- **START:** Initialize Git
 - **SNAP:** Create a Snapshot(Commit)
 - **BACK:** Restore Files
 - **SHOT:** Restore Files (in **BACK**)
